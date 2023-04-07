@@ -1,13 +1,13 @@
 /* İÇİNDEKİLER
 
-	1.UPDATE SP
+	1.Stored Procedure (UPDATE)
 	2.TRIGGER
-	3.DELET SP
-	-View       : Cursor da kullanıldı.
+	3.Stored Procedure (DELETE)
 	4.CURSOR
-	5.SELECT SP
-	6.INSERT SP
-	7.TRANSCTION SP
+	5.Stored Procedure (SELECT)
+	6.Stored Procedure (INSERT)
+	7.TRANSCTION
+	-View       : Cursor da kullanıldı.
 */
 
 
